@@ -42,7 +42,7 @@ Please include the extension as usual.
 
 ## Customize templates
 
-Customize your own html file in your Teplate/Page path.
+Customize your own html file in your Templates/Page path.
 
 
 [1]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default.gif
