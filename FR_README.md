@@ -1,19 +1,18 @@
-# Centralize bootstrap_package's templates
+# Centralisation des gabarits pour bootstrap_package
 
-## Templates
+## Gabarits
 
-### 1 column
-
-Preview | backend_layout file | html template file
+### 1 colonne
+Visualisation | Mise en page backend | Fichier html
 --------|---------------------|-------------------
 ![Default][1] | default.txt | Default.html
 ![Default Clean][2] | default_clean.txt | DefaultClean.html
 ![Default SubNav Right][3] | default_subnavigation_right.txt | DefaultSubNavRight.html
 ![Default SubNav Left][4] | default_subnavigation_left.txt | DefaultSubNavLeft.html
 
-### 2 Columns
+### 2 Colonnes
 
-Preview | backend_layout file | html template file
+Visualisation | Mise en page backend | Fichier html
 --------|---------------------|-------------------
 ![Default 2 Columns][5] | default_2_columns.txt | Default2Columns.html
 ![Default 2 Columns 25/75][6] | default_2_columns_25_75.txt | Default2Columns2575.html
@@ -25,24 +24,24 @@ Preview | backend_layout file | html template file
 
 ### 3 Columns
 
-Preview | backend_layout file | html template file
+Visualisation | Mise en page backend | Fichier html
 --------|---------------------|-------------------
 ![Default 3 Columns][12] | default_3_columns.txt | Default3Columns.html
 
 ### Special
 
-Preview | backend_layout file | html template file
+Visualisation | Mise en page backend | Fichier html
 --------|---------------------|-------------------
 ![Special Start][13] | special_start.txt | SpecialStart.html
 ![Special Feature][14] | special_feature.txt | SpecialFeature.html
 
-## Howto
+## Usage
 
-Please include the extension as usual.
+Dans Les inclusions du gabarit du site, veillez à inclure bootstrap_package_gabarits.
 
-## Customize templates
+## Customisation des templates
 
-Customize your own html file in your Teplate/Page path.
+dans ```https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Private/Templates/Page/```, mettez votre propre fichier html
 
 
 [1]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default.gif
