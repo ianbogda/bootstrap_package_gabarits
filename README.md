@@ -4,7 +4,7 @@
 
 ### Gabarits de base
 
-  - Default ![Default Clean][1]
+  - Default ![Default][1]
   - Default Clean ![Default Clean][2]
   - Default 2 Columns ![Default 2 Columns][3]
   - Default 2 Columns 25/75 ![Default 2 Columns 25/75][4]
@@ -28,7 +28,7 @@ Dans Les inclusions du gabarit du site, veillez à inclure bootstrap_package_gab
 
 ## Customisation des templates
 
-dans ```Resources/Private/Templates/Page/```, mettez votre propre fichier html
+dans ```https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Private/Templates/Page/```, mettez votre propre fichier html
 
   - Default.html
   - DefaultClean.html
@@ -46,17 +46,18 @@ dans ```Resources/Private/Templates/Page/```, mettez votre propre fichier html
   - Default2Columns7525.html
 
 
-[1]: Resources/Public/Images/BackenLayouts/default.gif
-[2]: Resources/Public/Images/BackenLayouts/default_clean.gif
-[3]: Resources/Public/Images/BackenLayouts/default_2_columns.gif
-[4]: Resources/Public/Images/BackenLayouts/default_2_columns_25_75.gif
-[5]: Resources/Public/Images/BackenLayouts/default_2_columns_50_50.gif
-[6]: Resources/Public/Images/BackenLayouts/default_2_columns_offset_right.gif
-[7]: Resources/Public/Images/BackenLayouts/default_3_columns.gif
-[8]: Resources/Public/Images/BackenLayouts/default_subnavigation_right.gif
-[9]: Resources/Public/Images/BackenLayouts/default_subnavigation_right_2_columns.gif
-[10]: Resources/Public/Images/BackenLayouts/default_subnavigation_left.gif
-[11]: Resources/Public/Images/BackenLayouts/default_subnavigation_left_2_columns.gif
-[12]: Resources/Public/Images/BackenLayouts/special_start.gif
-[13]: Resources/Public/Images/BackenLayouts/special_feature.gif
-[14]: Resources/Public/Images/BackenLayouts/default_2_columns_75_25.gif
+[1]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default.gif
+[2]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_clean.gif
+[3]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_2_columns.gif
+[4]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_2_columns_25_75.gif
+[5]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_2_columns_50_50.gif
+[6]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_2_columns_offset_right.gif
+[7]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_3_columns.gif
+[8]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_subnavigation_right.gif
+[9]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_subnavigation_right_2_columns.gif
+[10]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_subnavigation_left.gif
+[11]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_subnavigation_left_2_columns.gif
+[12]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_start.gif
+[13]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_feature.gif
+[14]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default_2_columns_75_25.gif
+
