@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-09-19T09:11:39Z"
+		  product-name="bootstrap_package_gabarits">
+		<header/>
+		<body>
+
+			<trans-unit id="backend_layout.default">
+				<source>Default</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_clean">
+				<source>Default, Clean</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_2_columns">
+				<source>Default, 2 Columns</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_2_columns_25_75">
+				<source>Default, 2 Columns 25/75</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_2_columns_50_50">
+				<source>Default, 2 Columns 50/50</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_2_columns_offset_right">
+				<source>Default, 2 Columns, Offset Right</source>
+			</trans-unit>
+
+			<trans-unit id="backend_layout.default_3_columns">
+				<source>Default, 3 Columns</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_subnavigation_right">
+				<source>Default, Subnavigation Right</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_subnavigation_right_2_columns">
+				<source>Default, Subnavigation Right and 2 Columns</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_subnavigation_left">
+				<source>Default, Subnavigation Left</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.default_subnavigation_left_2_columns">
+				<source>Default, Subnavigation Left and 2 Columns</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.special_start">
+				<source>Special Startpage</source>
+			</trans-unit>
+			<trans-unit id="backend_layout.special_feature">
+				<source>Special Feature</source>
+			</trans-unit>
+
+			<trans-unit id="backend_layout.default_2_columns_75_25">
+				<source>Default, 2 Columns 75/25</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
