@@ -5,7 +5,7 @@ mod {
 	web_layout {
 		BackendLayouts {
 			default_2_columns_75_25 {
-				title = LLL:EXT:t3_repute/Resources/Private/Language/Backend.xlf:backend_layout.default_2_columns_75_25
+				title = LLL:EXT:bootstrap_package_gabarits/Resources/Private/Language/Backend.xlf:backend_layout.default_2_columns_75_25
 				config {
 					backend_layout {
 						colCount = 6
@@ -47,7 +47,7 @@ mod {
 						}
 					}
 				}
-				icon = EXT:t3_repute/Resources/Public/Images/BackendLayouts/default_2_columns_75_25.gif
+				icon = EXT:bootstrap_package_gabarits/Resources/Public/Images/BackendLayouts/default_2_columns_75_25.gif
 			}
 		}
 	}
