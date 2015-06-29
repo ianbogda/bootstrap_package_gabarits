@@ -34,6 +34,7 @@ Visualisation | Mise en page backend | Fichier html
 --------|---------------------|-------------------
 ![Special Start][13] | special_start.txt | SpecialStart.html
 ![Special Feature][14] | special_feature.txt | SpecialFeature.html
+![Special Feature][15] | special_feature_2.txt | SpecialFeature2.html
 
 ## Usage
 
@@ -61,4 +62,5 @@ dans ```https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/ma
 
 [13]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_start.gif
 [14]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_feature.gif
+[15]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_feature_2.gif
 

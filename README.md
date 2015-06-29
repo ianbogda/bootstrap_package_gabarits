@@ -35,6 +35,7 @@ Preview | backend_layout file | html template file
 --------|---------------------|-------------------
 ![Special Start][13] | special_start.txt | SpecialStart.html
 ![Special Feature][14] | special_feature.txt | SpecialFeature.html
+![Special Feature][15] | special_feature_2.txt | SpecialFeature2.html
 
 ## Howto
 
@@ -42,7 +43,7 @@ Please include the extension as usual.
 
 ## Customize templates
 
-Customize your own html file in your Template/Page path.
+Customize your own html file in your Templates/Page path.
 
 
 [1]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/default.gif
@@ -62,4 +63,5 @@ Customize your own html file in your Template/Page path.
 
 [13]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_start.gif
 [14]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_feature.gif
+[15]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_feature_2.gif
 

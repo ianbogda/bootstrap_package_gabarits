@@ -45,6 +45,9 @@
 			<trans-unit id="backend_layout.special_feature">
 				<source>Special Feature</source>
 			</trans-unit>
+			<trans-unit id="backend_layout.special_feature_2">
+				<source>Special Feature 2</source>
+			</trans-unit>
 
 			<trans-unit id="backend_layout.default_2_columns_75_25">
 				<source>Default, 2 Columns 75/25</source>
