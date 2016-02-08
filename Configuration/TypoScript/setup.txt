@@ -48,6 +48,9 @@ page {
 
             pagets__special_feature_2 = TEXT
             pagets__special_feature_2.value = SpecialFeature2
+            
+            pagets__special_menu_page = TEXT
+            pagets__special_menu_page.value = SpecialMenuPage
 
             default = TEXT
             default.value = Default
