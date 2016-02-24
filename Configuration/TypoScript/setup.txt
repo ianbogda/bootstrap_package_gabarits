@@ -42,6 +42,9 @@ page {
 
             pagets__special_start_2 = TEXT
             pagets__special_start_2.value = SpecialStart2
+            
+            pagets__special_start_2_bis = TEXT
+            pagets__special_start_2_bis.value = SpecialStart2_bis
 
             pagets__special_feature = TEXT
             pagets__special_feature.value = SpecialFeature

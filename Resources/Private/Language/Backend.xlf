@@ -49,6 +49,9 @@
 			<trans-unit id="backend_layout.special_start_2">
 				<source>Special Startpage 2</source>
 			</trans-unit>
+			<trans-unit id="backend_layout.special_start_2_bis">
+				<source>Special Startpage 2 bis</source>
+			</trans-unit>
 			<trans-unit id="backend_layout.special_feature_2">
 				<source>Special Feature 2</source>
 			</trans-unit>
