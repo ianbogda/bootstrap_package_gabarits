@@ -49,14 +49,22 @@
 			<trans-unit id="backend_layout.special_start_2">
 				<source>Special Startpage 2</source>
 			</trans-unit>
+			<trans-unit id="backend_layout.special_start_2_bis">
+				<source>Special Startpage 2 bis</source>
+			</trans-unit>
 			<trans-unit id="backend_layout.special_feature_2">
 				<source>Special Feature 2</source>
 			</trans-unit>
 			<trans-unit id="backend_layout.default_2_columns_75_25">
 				<source>Default, 2 Columns 75/25</source>
 			</trans-unit>
+
 			<trans-unit id="backend_layout.special_2_columns_25_75">
 				<source>Special, 2 Columns 25/75</source>
+			</trans-unit>
+            
+			<trans-unit id="backend_layout.special_menu_page">
+				<source>Special, Menu Page</source>
 			</trans-unit>
 		</body>
 	</file>
