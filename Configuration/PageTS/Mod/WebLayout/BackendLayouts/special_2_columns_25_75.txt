@@ -1,0 +1,53 @@
+################################################
+#### BACKENDLAYOUT: SPECIAL 2 COLUMNS 25/75 ####
+################################################
+mod {
+    web_layout {
+        BackendLayouts {
+            special_2_columns_25_75 {
+                title = LLL:EXT:bootstrap_package_gabarits/Resources/Private/Language/Backend.xlf:backend_layout.special_2_columns_25_75
+                config {
+                    backend_layout {
+                        colCount = 12
+                        rowCount = 2
+                        rows {
+                            1 {
+                                columns {
+                                    1 {
+                                        name = LLL:EXT:cms/locallang_ttc.xlf:colPos.I.1
+                                        colspan = 3
+                                    }
+                                    2 {
+                                        name = LLL:EXT:cms/locallang_ttc.xlf:colPos.I.0
+                                        colPos = 0
+                                        colspan = 9
+                                    }
+                                }
+                            }
+                            2 {
+                                columns {
+                                    1 {
+                                        name = LLL:EXT:bootstrap_package/Resources/Private/Language/Backend.xlf:backend_layout.column.footer1
+                                        colPos = 10
+                                        colspan = 4
+                                    }
+                                    2 {
+                                        name = LLL:EXT:bootstrap_package/Resources/Private/Language/Backend.xlf:backend_layout.column.footer2
+                                        colPos = 11
+                                        colspan = 4
+                                    }
+                                    3 {
+                                        name = LLL:EXT:bootstrap_package/Resources/Private/Language/Backend.xlf:backend_layout.column.footer3
+                                        colPos = 12
+                                        colspan = 4
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                icon = EXT:bootstrap_package/Resources/Public/Images/BackendLayouts/default_2_columns_25_75.gif
+            }
+        }
+    }
+}

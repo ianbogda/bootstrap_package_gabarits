@@ -1,0 +1,54 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <f:link.page class="sr-only sr-only-focusable" section="content">
+                {f:translate(key: 'skiptomaincontent', extensionName: 'bootstrap_package')}
+            </f:link.page>
+            <h1>
+            <f:if condition="{logoFile}">
+                <f:then>
+                    <f:link.page pageUid="{rootPage}">
+                        <img src="{f:uri.image(src: logoFile)}" height="{logoHeight}" width="{logoWidth}" id="logo"/>
+                        <span id="logo_bis">{siteTitle}</span>
+                    </f:link.page>
+                </f:then>
+                <f:else>
+                    <f:link.page pageUid="{rootPage}">{siteTitle}</f:link.page>
+                </f:else>
+            </f:if>
+            </h1>
+        </div>
+        <div class="col-md-9">
+            <div class="row">
+                <div id="localisation" class="pull-left">
+                    <f:cObject typoscriptObjectPath="lib.navigation.localisation"/>
+                </div>
+                <div id="search" class="pull-right">
+                    <f:cObject typoscriptObjectPath="lib.searchbox"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="banner">
+                    <f:cObject typoscriptObjectPath="lib.villes"/>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div id="ariane" class="col-md-9 col-md-offset-3">
+            <f:cObject typoscriptObjectPath="lib.navigation.breadcrumb"/>
+        </div>
+    </div>
+    
+    <div class="row">
+        <f:render section="Main"/>
+        <f:if condition="{onePage}">
+            <f:cObject typoscriptObjectPath="lib.content.onepage"/>
+        </f:if>
+    </div>
+    
+    <f:if condition="{showFooter}">
+        <f:render partial="Structure/Footer" arguments="{_all}"/>
+    </f:if>
+</div>
