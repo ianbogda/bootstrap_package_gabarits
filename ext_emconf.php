@@ -5,8 +5,8 @@ $EM_CONF[$_EXTKEY] = array(
     'category' => 'templates',
     'constraints' => array(
         'depends' => array(
-            'typo3' => '6.2.13-7.99.99',
-            'bootstrap_package' => '6.2.12-7.99.99',
+            'typo3' => '7.6.2-8.99.99',
+            'bootstrap_package' => '7.0.0-8.99.99',
         ),
         'conflicts' => array(),
     ),
@@ -17,6 +17,6 @@ $EM_CONF[$_EXTKEY] = array(
     'author' => 'Yann Bogdanovic',
     'author_email' => 'ianbogda@gmail.com',
     'author_company' => 'private',
-    'version' => '6.2.15',
+    'version' => '7.0.0',
 );
 ?>
