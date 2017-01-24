@@ -34,10 +34,8 @@ Visualisation | Mise en page backend | Fichier html
 --------|---------------------|-------------------
 ![Special Start][13] | special_start.txt | SpecialStart.html
 ![Special Start][14] | special_start_2.txt | SpecialStart2.html
-![Special Start][14] | special_start_2_bis.txt | SpecialStart2_bis.html
 ![Special Feature][15] | special_feature.txt | SpecialFeature.html
-![Special Feature][16] | special_feature_2.txt | SpecialFeature2.html
-![Special Feature][17] | special_menu_page.txt | Special.html
+![Special Feature][16] | special_menu_page.txt | Special.html
 
 ## Usage
 
@@ -66,6 +64,5 @@ dans ```https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/ma
 [13]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_start.gif
 [14]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_start_2.gif
 [15]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_feature.gif
-[16]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_feature_2.gif
-[17]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_menu_page.gif
+[16]: https://raw.githubusercontent.com/ianbogda/bootstrap_package_gabarits/master/Resources/Public/Images/BackendLayouts/special_menu_page.gif
 
